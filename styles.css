@@ -27,8 +27,8 @@ h2 {
 
 nav a {
     display: inline-block;
-    margin-left: 8px;
-    margin-right: 8px;
+    margin-left: 6px;
+    margin-right: 6px;
     margin-top: 20px;
     margin-bottom: 20px;
     border-radius: 5px;
@@ -64,7 +64,7 @@ body {
 }
 
 .pool {
-    height: 100vh;
+    min-height: 100vh;
     padding-top: 40px;
     padding-bottom: 40px;
     background-image: url(images/pool2.jpeg);
